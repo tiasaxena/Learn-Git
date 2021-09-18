@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    int a = 5;
-    int b = 6;
+    int a = 10;
+    int b = 9;
     cout << "answer is:" << (a - b);
     return 0;
 }
